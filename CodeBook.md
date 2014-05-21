@@ -11,6 +11,16 @@ the first letter of all words after the first word are capitalized to make the n
 * subject = the individual participant in the study (i=1,2,...,30)
 * activity = the activity in which the participant was engaged at the time of the measurement(s)
 
+Note: activities have been labeled as
+
+1 = Walking
+2 = Walking Upstairs
+3 = Walking Downstairs
+4 = Sitting
+5 = Standing
+6 = Laying
+
+
 All other variable names are combinations of the following factors
 
 * time = time domain signals
